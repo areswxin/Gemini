@@ -1,5 +1,5 @@
 <p align="center">
-        <img width="500" src="logo.jpg"> 
+        <img width="500" src="img/logo.jpg"> 
 </p>
 
 # Gemini  
@@ -15,6 +15,11 @@ Mysql SQL语句审核平台 Yearning 前端页面代码
 ## Website
 [www.yearning.io](http://yearning.io)
 
+## Snapshot
+
+![](img/login.png)
+
+![](img/dash.png)
 
 ## License
 
