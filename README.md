@@ -1,5 +1,5 @@
 <p align="center">
-        <img width="300" src="logo.jpg"> 
+        <img width="500" src="logo.jpg"> 
 </p>
 
 # Gemini  
